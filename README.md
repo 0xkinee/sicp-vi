@@ -3,7 +3,7 @@ Tên dự án/Project name: My Vietnamese translation of SICP
 
 Người dịch/Translator
 --------------------
-Nguyễn Trung Kiên (shuriken.aka)
+Nguyễn Trung Kiên (shuriken aka)
 
 Email: kin.computing@gmail.com
 
