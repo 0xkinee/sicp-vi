@@ -9,11 +9,11 @@ Email: kin.computing@gmail.com
 
 Tiến độ dự án/Project progress
 ------------------------------
-| Số thứ tự     | Tên chương sách | Link | Tình trạng  |
-| -------------:|-----------------|----- |------------:|
-| 1             | Lời đề tặng     | https://github.com/shuriken-aka/sicp-vi/blob/master/1.loi_de_tang.md | Hoàn thành |
-| 2             | Mục lục         |(null)| Chưa |
-| 3             |                 |(null)| Chưa |
+| Số thứ tự     | Tên chương sách | Tình trạng  |
+| -------------:|-----------------|------------:|
+| 1             | [Lời đề tặng](https://github.com/shuriken-aka/sicp-vi/blob/master/1.loi_de_tang.md) | Hoàn thành |
+| 2             | Mục lục         | Chưa |
+| 3             |                 | Chưa |
 
 Bản quyền/License
 -----------------
