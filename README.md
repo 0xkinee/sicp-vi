@@ -1,13 +1,13 @@
 # sicp-vi
 Tên dự án/Project name: My Vietnamese translation of SICP
 
-Người dịch/Translator
+Người dịch / Translator
 --------------------
-Nguyễn Trung Kiên (shuriken aka)
+Nguyễn Trung Kiên/ Kin Nguyễn
 
 Email: kin.computing@gmail.com
 
-Tiến độ dự án/Project progress
+Tiến độ dự án / Project progress
 ------------------------------
 | Số thứ tự     | Tên chương sách | Tình trạng  |
 | -------------:|-----------------|------------:|
@@ -15,6 +15,6 @@ Tiến độ dự án/Project progress
 | 2             | Mục lục         | Chưa |
 | 3             |                 | Chưa |
 
-Bản quyền/License
+Bản quyền / License
 -----------------
 The MIT License
